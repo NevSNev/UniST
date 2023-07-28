@@ -15,11 +15,11 @@ to excavate domain-specific information with domain interaction transformer (*DI
 ### Image Style Transfer
 ![](Figure/image_style_transfer.png)
 ### Video Style Transfer
-<figure class="third">
+<p float="left">
     <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/4.gif" width="100px">
     <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/2.gif" width="100px">
     <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/1.gif" width="100px">
-</figure>
+</p>
 
 ## Application
 Except the arbitrary image and video style transfers, UniST provides the multi-granularity style transfer.

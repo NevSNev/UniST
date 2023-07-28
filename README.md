@@ -16,10 +16,10 @@ to excavate domain-specific information with domain interaction transformer (*DI
 ![](Figure/image_style_transfer.png)
 ### Video Style Transfer
 <figure class="fourth">
-    <img src="https://github.com/NevSNev/UniST/Figure/1.gif">
-    <img src="https://github.com/NevSNev/UniST/Figure/2.gif">
-    <img src="https://github.com/NevSNev/UniST/Figure/3.gif">
-    <img src="https://drive.google.com/file/d/1-qyHkh4JGR75sUYvKmnZXRMHPc-ekFvw/view?usp=drive_link">
+    <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/4.gif">
+    <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/3.gif">
+    <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/2.gif">
+    <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/1.gif">
 </figure>
 
 ## Application

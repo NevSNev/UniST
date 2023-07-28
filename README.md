@@ -19,7 +19,7 @@ to excavate domain-specific information with domain interaction transformer (*DI
     <img src="https://github.com/NevSNev/UniST/Figure/1.gif">
     <img src="https://github.com/NevSNev/UniST/Figure/2.gif">
     <img src="https://github.com/NevSNev/UniST/Figure/3.gif">
-    <img src="https://github.com/NevSNev/UniST/Figure/4.gif">
+    <img src="https://drive.google.com/file/d/1-qyHkh4JGR75sUYvKmnZXRMHPc-ekFvw/view?usp=drive_link">
 </figure>
 
 ## Application

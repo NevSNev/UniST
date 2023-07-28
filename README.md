@@ -12,9 +12,10 @@ to excavate domain-specific information with domain interaction transformer (*DI
 
 
 ## Results
-### Image Style Transfer
+*Both images and videos are provided with finest grainuarity style transfer results.* <br>
+**Image Style Transfer**
 ![](Figure/image_style_transfer.png)
-### Video Style Transfer
+**Video Style Transfer**
 <p align="center">
     <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/4.gif" width="220px">
     <img src="https://github.com/NevSNev/UniST/releases/download/untagged-e669c1cacf1eb14ce7f6/3.gif" width="220px">

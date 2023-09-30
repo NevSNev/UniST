@@ -68,11 +68,13 @@ python scripts/train.py
 ### BibTeX
 If this repo is useful to you, please cite our technical paper.
 ```bibtex
-@article{gu2023two,
-    title={Two Birds, One Stone: A Unified Framework for Joint Learning of Image and Video Style Transfers},
-    author={Gu, Bohai and Fan, Heng and Zhang, Libo},
-    journal={arXiv preprint arXiv:2304.11335},
-    year={2023}
+@InProceedings{Gu_2023_ICCV,
+    author    = {Gu, Bohai and Fan, Heng and Zhang, Libo},
+    title     = {Two Birds, One Stone: A Unified Framework for Joint Learning of Image and Video Style Transfers},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {23545-23554}
 }
 ```
 ### Acknowledgments
